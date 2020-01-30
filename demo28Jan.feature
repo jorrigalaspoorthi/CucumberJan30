@@ -21,7 +21,7 @@ Then Login is successful
  Examples: 
   |user|password|
   |Lalitha|password123|
-  |john|Ravi123|
+  |john|Ravi1234    |
  @datadriven
  Scenario: Search a product
  When Larry seraches for products in the search field
